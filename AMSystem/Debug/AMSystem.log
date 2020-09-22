@@ -1,0 +1,4 @@
+﻿  Interface_Main.cpp
+Interface_Main.cpp(42): warning C4018: <: несоответствие типов со знаком и без знака
+Interface_Main.cpp(154): warning C4018: <: несоответствие типов со знаком и без знака
+  AMSystem.vcxproj -> C:\Users\Delamart\source\repos\AMSystem\Debug\AMSystem.exe
